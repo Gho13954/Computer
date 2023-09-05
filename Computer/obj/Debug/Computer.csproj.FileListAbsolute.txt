@@ -1,0 +1,13 @@
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.Form1.resources
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.Properties.Resources.resources
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.csproj.GenerateResource.cache
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.csproj.CoreCompileInputs.cache
+D:\C#\demo\Computer\Computer\bin\Debug\Computer.exe.config
+D:\C#\demo\Computer\Computer\bin\Debug\Computer.exe
+D:\C#\demo\Computer\Computer\bin\Debug\Computer.pdb
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.exe
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.pdb
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.home.resources
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.Form2.resources
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.Form3.resources
+D:\C#\demo\Computer\Computer\obj\Debug\Computer.csproj.AssemblyReference.cache
